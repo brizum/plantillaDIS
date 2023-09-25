@@ -14,4 +14,4 @@ Versión final de la aplicación:
 ________________________________________
 
 _**Alumno**: _
-Manuel Brizuela
+Manuel Brizuela Sánchez
